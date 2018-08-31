@@ -1,0 +1,23 @@
+
+
+DETAILED DESCRIPTIONS OF DATA FILES
+==============================================
+
+Here are brief descriptions of the data.
+
+
+ratings.dat   Users and books are numbered consecutively from 1.This is a '|' separated list of 
+	         user id | book id | rating | timestamp. 
+              The time stamps are unix seconds since 1/1/1970 UTC   
+
+books.dat     Information about books; this is a tab separated
+              list of
+              book id | book title | release date | author 
+
+user.dat     user data. This is a tab separated list of
+              user id | age | gender | occupation | zip code
+
+occupations.dat	list of user occupations.
+              
+
+
